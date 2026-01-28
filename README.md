@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/praveend54/Leetcode/tree/master/0078-subsets) |
+| [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
@@ -15,6 +16,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
@@ -36,4 +38,16 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/praveend54/Leetcode/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
