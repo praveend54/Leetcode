@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/praveend54/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/praveend54/Leetcode/tree/master/0078-subsets) |
 | [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -11,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/praveend54/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/praveend54/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
