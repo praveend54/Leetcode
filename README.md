@@ -27,6 +27,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Simulation
 |  |
@@ -61,11 +62,13 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveend54/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveend54/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveend54/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveend54/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveend54/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -75,4 +78,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveend54/Leetcode/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
