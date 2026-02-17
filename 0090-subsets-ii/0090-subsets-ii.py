@@ -3,14 +3,13 @@ class Solution:
         nums.sort()
         res=[]
         path=[]
-        def backtrack(i):
-            if i==len(nums):
-                if path[:] not in res:
-                    res.append(path[:])
-                return
-            backtrack(i+1)
-            path.append(nums[i])
-            backtrack(i+1)
-            path.pop()
+        def backtrack(s):
+            res.append(path[:])
+            for i in range(s,len(nums)):
+                if i>s and nums[i]==nums[i-1]:
+                    continue
+                path.append(nums[i])
+                backtrack(i+1)
+                path.pop()
         backtrack(0)
         return res
