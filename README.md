@@ -49,6 +49,7 @@
 | ------- |
 | [0078-subsets](https://github.com/praveend54/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praveend54/Leetcode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/praveend54/Leetcode/tree/master/0190-reverse-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/praveend54/Leetcode/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
