@@ -44,6 +44,7 @@
 | ------- |
 | [0078-subsets](https://github.com/praveend54/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praveend54/Leetcode/tree/master/0090-subsets-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveend54/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0090-subsets-ii](https://github.com/praveend54/Leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/praveend54/Leetcode/tree/master/0190-reverse-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveend54/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
+## String
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveend54/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
