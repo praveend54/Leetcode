@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/praveend54/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
+| [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/praveend54/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -156,6 +158,7 @@
 ## String
 |  |
 | ------- |
+| [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveend54/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
