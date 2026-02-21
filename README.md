@@ -24,6 +24,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/praveend54/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/praveend54/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
+| [2336-smallest-number-in-infinite-set](https://github.com/praveend54/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Matrix
 |  |
 | ------- |
@@ -168,4 +170,12 @@
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/praveend54/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/praveend54/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
