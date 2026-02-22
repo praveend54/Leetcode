@@ -1,16 +1,19 @@
 class MedianFinder:
 
     def __init__(self):
-        self.mf=SortedList()
+        self.minH=[]
+        self.maxH=[]
 
     def addNum(self, num: int) -> None:
-        self.mf.add(num)
+        heappush(self.maxH,-num)
+        heappush(self.minH,-heappop(self.maxH))
+        if len(self.minH)>len(self.maxH):
+            heappush(self.maxH,-heappop(self.minH))
 
     def findMedian(self) -> float:
-        n=len(self.mf)
-        return (self.mf[n//2]+self.mf[n//2-1])/2 if n%2==0 else self.mf[n//2]
-
-
+        if len(self.maxH)>len(self.minH):
+            return -self.maxH[0]
+        return (-self.maxH[0]+self.minH[0])/2
 # Your MedianFinder object will be instantiated and called as such:
 # obj = MedianFinder()
 # obj.addNum(num)
