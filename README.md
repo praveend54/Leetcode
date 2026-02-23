@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praveend54/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/praveend54/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/praveend54/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praveend54/Leetcode/tree/master/0090-subsets-ii) |
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praveend54/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
