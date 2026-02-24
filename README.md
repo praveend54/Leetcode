@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/praveend54/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/praveend54/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/praveend54/Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/praveend54/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/praveend54/Leetcode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveend54/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/praveend54/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/praveend54/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/praveend54/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveend54/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/praveend54/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/praveend54/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/praveend54/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0844-backspace-string-compare](https://github.com/praveend54/Leetcode/tree/master/0844-backspace-string-compare) |
