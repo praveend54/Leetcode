@@ -89,6 +89,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/praveend54/Leetcode/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/praveend54/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/praveend54/Leetcode/tree/master/0739-daily-temperatures) |
@@ -199,6 +200,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/praveend54/Leetcode/tree/master/0020-valid-parentheses) |
 | [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/praveend54/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/praveend54/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
