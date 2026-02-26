@@ -138,6 +138,7 @@
 | [0002-add-two-numbers](https://github.com/praveend54/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/praveend54/Leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
+| [1492-the-kth-factor-of-n](https://github.com/praveend54/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Recursion
 |  |
 | ------- |
@@ -239,4 +240,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/praveend54/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
