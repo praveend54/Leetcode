@@ -179,6 +179,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
@@ -186,16 +187,19 @@
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/praveend54/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Union-Find
 |  |
