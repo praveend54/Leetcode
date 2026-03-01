@@ -61,6 +61,7 @@
 | [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3634-minimum-removals-to-balance-array](https://github.com/praveend54/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
@@ -181,6 +182,7 @@
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,12 +197,14 @@
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
