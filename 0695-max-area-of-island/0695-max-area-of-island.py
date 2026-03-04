@@ -1,6 +1,6 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-        l=[]
+        m=0
         def dfs(grid,i,j):
             if i>=len(grid) or j>=len(grid[0]) or i<0 or j<0 or grid[i][j]==0:
                 return 0
@@ -9,5 +9,5 @@ class Solution:
         for i in range(len(grid)):
             for j in range(len(grid[0])):
                 if grid[i][j]==1:
-                    l.append(dfs(grid,i,j))
-        return max(l) if l else 0
+                    m=max(m,dfs(grid,i,j))
+        return m
