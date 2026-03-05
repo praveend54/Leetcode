@@ -56,6 +56,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveend54/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/praveend54/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/praveend54/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/praveend54/Leetcode/tree/master/0190-reverse-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/praveend54/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -218,6 +221,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/praveend54/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,6 +247,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/praveend54/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
@@ -293,6 +298,7 @@
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveend54/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/praveend54/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
