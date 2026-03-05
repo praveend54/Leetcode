@@ -22,6 +22,7 @@
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/praveend54/Leetcode/tree/master/0739-daily-temperatures) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -35,6 +36,7 @@
 | [0073-set-matrix-zeroes](https://github.com/praveend54/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0491-non-decreasing-subsequences](https://github.com/praveend54/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/praveend54/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/praveend54/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveend54/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/praveend54/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
