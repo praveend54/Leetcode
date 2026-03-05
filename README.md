@@ -57,6 +57,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveend54/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/praveend54/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/praveend54/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@
 | [0739-daily-temperatures](https://github.com/praveend54/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/praveend54/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/praveend54/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/praveend54/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0844-backspace-string-compare](https://github.com/praveend54/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/praveend54/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveend54/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -255,6 +258,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/praveend54/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/praveend54/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/praveend54/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/praveend54/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveend54/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
