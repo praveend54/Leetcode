@@ -27,6 +27,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/praveend54/Leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -101,6 +102,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/praveend54/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/praveend54/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/praveend54/Leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveend54/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
@@ -313,4 +315,8 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/praveend54/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/praveend54/Leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
