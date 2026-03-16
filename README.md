@@ -30,6 +30,7 @@
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/praveend54/Leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/praveend54/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/praveend54/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
@@ -53,6 +54,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveend54/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/praveend54/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Greedy
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/praveend54/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/praveend54/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
@@ -185,6 +188,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/praveend54/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/praveend54/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
