@@ -91,6 +91,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/praveend54/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/praveend54/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/praveend54/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/praveend54/Leetcode/tree/master/0090-subsets-ii) |
@@ -208,6 +209,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/praveend54/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/praveend54/Leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveend54/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/praveend54/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/praveend54/Leetcode/tree/master/0022-generate-parentheses) |
 | [0583-delete-operation-for-two-strings](https://github.com/praveend54/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/praveend54/Leetcode/tree/master/0844-backspace-string-compare) |
