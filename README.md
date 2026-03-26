@@ -34,6 +34,7 @@
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/praveend54/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/praveend54/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/praveend54/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3546-equal-sum-grid-partition-i](https://github.com/praveend54/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/praveend54/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/praveend54/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -296,6 +299,7 @@
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3546-equal-sum-grid-partition-i](https://github.com/praveend54/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Design
 |  |
 | ------- |
