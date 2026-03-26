@@ -171,6 +171,7 @@
 | [0002-add-two-numbers](https://github.com/praveend54/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/praveend54/Leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/praveend54/Leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/praveend54/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/praveend54/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Recursion
@@ -211,6 +212,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/praveend54/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/praveend54/Leetcode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/praveend54/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveend54/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/praveend54/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -223,6 +225,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/praveend54/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveend54/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/praveend54/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -266,6 +269,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/praveend54/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveend54/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/praveend54/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -332,6 +336,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/praveend54/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveend54/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/praveend54/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
