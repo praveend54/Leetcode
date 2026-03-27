@@ -18,6 +18,7 @@
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/praveend54/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/praveend54/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/praveend54/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0419-battleships-in-a-board](https://github.com/praveend54/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/praveend54/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -188,6 +189,7 @@
 | [0053-maximum-subarray](https://github.com/praveend54/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/praveend54/Leetcode/tree/master/0190-reverse-bits) |
+| [0307-range-sum-query-mutable](https://github.com/praveend54/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
@@ -318,6 +320,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/praveend54/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/praveend54/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/praveend54/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/praveend54/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
@@ -353,4 +356,12 @@
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/praveend54/Leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/praveend54/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/praveend54/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
