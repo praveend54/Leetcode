@@ -1,15 +1,17 @@
 class Solution:
-    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        ans=[]
-        def backtrack(s,nums,ans):
+    def permuteUnique(self, nums):
+        ans = []
+        def backtrack(s):
             if s==len(nums):
-                p=[i for i in nums]
-                if p not in ans:
-                    ans.append(p)
+                ans.append(nums[:])
                 return
+            used=set()
             for i in range(s,len(nums)):
+                if nums[i] in used:
+                    continue
+                used.add(nums[i])
                 nums[i],nums[s]=nums[s],nums[i]
-                backtrack(s+1,nums,ans)
+                backtrack(s+1)
                 nums[i],nums[s]=nums[s],nums[i]
-        backtrack(0,nums,ans)
+        backtrack(0)
         return ans
