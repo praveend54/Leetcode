@@ -50,6 +50,7 @@
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/praveend54/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/praveend54/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/praveend54/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/praveend54/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/praveend54/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
@@ -313,6 +315,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/praveend54/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/praveend54/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/praveend54/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/praveend54/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveend54/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
