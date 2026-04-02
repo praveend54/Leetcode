@@ -32,6 +32,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/praveend54/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/praveend54/Leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -182,6 +183,7 @@
 | [0096-unique-binary-search-trees](https://github.com/praveend54/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/praveend54/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/praveend54/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
