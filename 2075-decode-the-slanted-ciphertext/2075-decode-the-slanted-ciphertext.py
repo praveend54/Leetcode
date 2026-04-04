@@ -3,12 +3,13 @@ class Solution:
         if rows==1:
             return encodedText
         cols=len(encodedText)//rows
-        s=""
+        i=j=k=0
         l=[]
-        for c in range(cols):
-            r,j=0,c
-            while r<rows and j<cols:
-                l.append(encodedText[r*cols+j])
-                r+=1
+        while k<len(encodedText):
+            l.append(encodedText[k])
+            i+=1
+            if i==rows:
+                i=0
                 j+=1
-        return "".join(l).rstrip()
+            k=i*(cols+1)+j
+        return ''.join(l).rstrip()
