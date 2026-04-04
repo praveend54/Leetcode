@@ -31,6 +31,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/praveend54/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -155,6 +156,7 @@
 | [0542-01-matrix](https://github.com/praveend54/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveend54/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
@@ -282,6 +284,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/praveend54/Leetcode/tree/master/1609-even-odd-tree) |
+| [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
