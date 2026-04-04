@@ -24,6 +24,7 @@
 | [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/praveend54/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/praveend54/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/praveend54/Leetcode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/praveend54/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/praveend54/Leetcode/tree/master/0739-daily-temperatures) |
@@ -151,6 +152,7 @@
 | [0074-search-a-2d-matrix](https://github.com/praveend54/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/praveend54/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/praveend54/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -228,6 +230,7 @@
 | [0096-unique-binary-search-trees](https://github.com/praveend54/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveend54/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/praveend54/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/praveend54/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/praveend54/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -274,6 +277,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/praveend54/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/praveend54/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/praveend54/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
