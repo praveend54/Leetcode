@@ -43,6 +43,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveend54/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/praveend54/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/praveend54/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/praveend54/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/praveend54/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/praveend54/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
