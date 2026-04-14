@@ -237,6 +237,7 @@
 | [0053-maximum-subarray](https://github.com/praveend54/Leetcode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/praveend54/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveend54/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/praveend54/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/praveend54/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/praveend54/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -256,6 +257,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/praveend54/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/praveend54/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/praveend54/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/praveend54/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/praveend54/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveend54/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/praveend54/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -270,6 +272,7 @@
 | [0098-validate-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/praveend54/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/praveend54/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/praveend54/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/praveend54/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/praveend54/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -305,6 +308,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/praveend54/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/praveend54/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/praveend54/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/praveend54/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/praveend54/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveend54/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/praveend54/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
