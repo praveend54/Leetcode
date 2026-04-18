@@ -194,6 +194,7 @@
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/praveend54/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/praveend54/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3783-mirror-distance-of-an-integer](https://github.com/praveend54/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
