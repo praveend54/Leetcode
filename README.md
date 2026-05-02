@@ -195,6 +195,7 @@
 | [0089-gray-code](https://github.com/praveend54/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/praveend54/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/praveend54/Leetcode/tree/master/0788-rotated-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/praveend54/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/praveend54/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3783-mirror-distance-of-an-integer](https://github.com/praveend54/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -245,6 +246,7 @@
 | [0509-fibonacci-number](https://github.com/praveend54/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/praveend54/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/praveend54/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0788-rotated-digits](https://github.com/praveend54/Leetcode/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/praveend54/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
