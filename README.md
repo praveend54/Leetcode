@@ -34,6 +34,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1402-reducing-dishes](https://github.com/praveend54/Leetcode/tree/master/1402-reducing-dishes) |
 | [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveend54/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -83,6 +84,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/praveend54/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1402-reducing-dishes](https://github.com/praveend54/Leetcode/tree/master/1402-reducing-dishes) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/praveend54/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/praveend54/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -96,6 +98,7 @@
 | [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/praveend54/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
+| [1402-reducing-dishes](https://github.com/praveend54/Leetcode/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -257,6 +260,7 @@
 | [0788-rotated-digits](https://github.com/praveend54/Leetcode/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/praveend54/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1402-reducing-dishes](https://github.com/praveend54/Leetcode/tree/master/1402-reducing-dishes) |
 ## Memoization
 |  |
 | ------- |
