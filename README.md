@@ -31,6 +31,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/praveend54/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/praveend54/Leetcode/tree/master/0739-daily-temperatures) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/praveend54/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveend54/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/praveend54/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/praveend54/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0984-string-without-aaa-or-bbb](https://github.com/praveend54/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -172,6 +174,7 @@
 | [0419-battleships-in-a-board](https://github.com/praveend54/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/praveend54/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/praveend54/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
