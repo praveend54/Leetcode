@@ -40,6 +40,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveend54/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/praveend54/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/praveend54/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/praveend54/Leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -90,6 +91,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/praveend54/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/praveend54/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/praveend54/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
