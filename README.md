@@ -36,6 +36,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1402-reducing-dishes](https://github.com/praveend54/Leetcode/tree/master/1402-reducing-dishes) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praveend54/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveend54/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/praveend54/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praveend54/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/praveend54/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/praveend54/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -249,6 +251,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/praveend54/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/praveend54/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praveend54/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praveend54/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveend54/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Dynamic Programming
