@@ -35,6 +35,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/praveend54/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveend54/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -83,6 +84,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/praveend54/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/praveend54/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/praveend54/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
@@ -94,6 +96,7 @@
 | [0148-sort-list](https://github.com/praveend54/Leetcode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/praveend54/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0791-custom-sort-string](https://github.com/praveend54/Leetcode/tree/master/0791-custom-sort-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/praveend54/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -432,4 +435,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/praveend54/Leetcode/tree/master/0207-course-schedule) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
