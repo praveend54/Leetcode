@@ -23,6 +23,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/praveend54/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/praveend54/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/praveend54/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/praveend54/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0419-battleships-in-a-board](https://github.com/praveend54/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0456-132-pattern](https://github.com/praveend54/Leetcode/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/praveend54/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -407,6 +408,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/praveend54/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/praveend54/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2336-smallest-number-in-infinite-set](https://github.com/praveend54/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
