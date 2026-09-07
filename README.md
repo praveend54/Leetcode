@@ -40,6 +40,7 @@
 | [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveend54/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveend54/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1905-count-sub-islands](https://github.com/praveend54/Leetcode/tree/master/1905-count-sub-islands) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/praveend54/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/praveend54/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2295-replace-elements-in-an-array](https://github.com/praveend54/Leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -180,6 +181,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/praveend54/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praveend54/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/praveend54/Leetcode/tree/master/1905-count-sub-islands) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/praveend54/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveend54/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
@@ -315,6 +317,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/praveend54/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1905-count-sub-islands](https://github.com/praveend54/Leetcode/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,6 +338,7 @@
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/praveend54/Leetcode/tree/master/1609-even-odd-tree) |
 | [1765-map-of-highest-peak](https://github.com/praveend54/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/praveend54/Leetcode/tree/master/1905-count-sub-islands) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -363,6 +367,7 @@
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/praveend54/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/praveend54/Leetcode/tree/master/1905-count-sub-islands) |
 ## String
 |  |
 | ------- |
