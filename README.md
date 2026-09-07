@@ -309,6 +309,7 @@
 | [0419-battleships-in-a-board](https://github.com/praveend54/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/praveend54/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveend54/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0684-redundant-connection](https://github.com/praveend54/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/praveend54/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -328,6 +329,7 @@
 | [0210-course-schedule-ii](https://github.com/praveend54/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/praveend54/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/praveend54/Leetcode/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/praveend54/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveend54/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveend54/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/praveend54/Leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/praveend54/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/praveend54/Leetcode/tree/master/0695-max-area-of-island) |
 ## String
 |  |
@@ -438,6 +441,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/praveend54/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/praveend54/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/praveend54/Leetcode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
